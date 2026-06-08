@@ -138,4 +138,3 @@ SQL-focused analytics project analyzing more than 7,000 NBA game logs across thr
 **GitHub:** https://github.com/aidanraync
 
 **Email:** aidanraync@gmail.com
-```
